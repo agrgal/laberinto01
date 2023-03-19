@@ -1,6 +1,6 @@
 basic.pause(2000)
-let vRot = 50
-let fAVA = 100
+let vRot = 20
+let fAVA = 50
 basic.showIcon(IconNames.Heart)
 basic.pause(500)
 music.playTone(262, music.beat(BeatFraction.Whole))
